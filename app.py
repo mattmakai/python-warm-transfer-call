@@ -1,5 +1,5 @@
 import os
-from flask import Flask, Response, request, url_for
+from flask import Flask, Response, request
 from twilio import twiml
 from twilio.rest import TwilioRestClient
 
